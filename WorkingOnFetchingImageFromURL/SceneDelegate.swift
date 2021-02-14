@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  WorkingOnFetchingImageFromURL
 //
-//  Created by Sidhartha Das on 14/02/21.
-//
 
 import UIKit
 
